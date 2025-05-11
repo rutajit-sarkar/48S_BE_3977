@@ -36,10 +36,9 @@ This project combines **AI-based infant monitoring** with **remote heart rate es
 
 ## 🚀 Installation & Running Locally
 
-### 1. Clone the Repository
+### 1. Download the Zip File (as the AI Models couldn't be saved in the Github Repo)
 
 ```bash
-git clone [https://github.com/yourusername/infant-monitoring-ai.git](https://github.com/rutajit-sarkar/48S_BE_3977.git)
 cd 48S_BE_3977
 ```
 ### 2. Install Dependecies
