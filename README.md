@@ -38,5 +38,26 @@ This project combines **AI-based infant monitoring** with **remote heart rate es
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/infant-monitoring-ai.git
-cd infant-monitoring-ai
+git clone [https://github.com/yourusername/infant-monitoring-ai.git](https://github.com/rutajit-sarkar/48S_BE_3977.git)
+cd 48S_BE_3977
+```
+### 2. Install Dependecies
+Use Virtual Environment and make sure conda distribution is installed (Recommended).
+```bash
+conda activate <VIRTUAL_ENV>
+```
+Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. AI Model Inference
+### Activity Monitoring AI Algoirthm
+
+```bash
+python activity.py
+```
+### Run remote Photplethysmography Model for retrieving Heart Rate
+
+```bash
+python heartrate.py
+```
