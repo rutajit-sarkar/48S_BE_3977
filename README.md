@@ -36,7 +36,7 @@ This project combines **AI-based infant monitoring** with **remote heart rate es
 
 ## 🚀 Installation & Running Locally
 
-### 1. Download the Zip File (as the AI Models couldn't be saved in the Github Repo)
+### 1. Download the Zip File sent in the email (as the AI Models couldn't be saved in the Github Repo).
 
 ```bash
 cd 48S_BE_3977
@@ -51,7 +51,7 @@ Install Dependencies
 pip install -r requirements.txt
 ```
 ### 3. AI Model Inference
-### Activity Monitoring AI Algoirthm
+### Activity Monitoring AI Algorithm
 
 ```bash
 python activity.py
