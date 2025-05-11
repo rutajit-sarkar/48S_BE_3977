@@ -18,10 +18,11 @@ This project combines **AI-based infant monitoring** with **remote heart rate es
 - `YOLOv11` – Pose and emotion estimation (custom-trained).
 
 ### ❤️ Remote Photoplethysmography (rPPG)
-- **Facial ROI Extraction** – Automatically detects and tracks facial regions.
+- **Facial ROI Extraction** – Automatically detects and tracks facial regions using YOLO.
 - **Color Space Conversion** – Converts RGB to YUV for improved pulse detection.
 - **3D-CNN Architecture** – Lightweight 3D-CNN for temporal signal analysis.
 - **Real-Time HR Estimation** – Estimates heart rate from face video in real time.
+- **Grayscale/IR Image support** – Support night time detection.
 
 ---
 
